@@ -1,3 +1,3 @@
-# How to install
+# 如何安装
 
-Place folder `resource` under the root directory of the mod.
+将其他4个文件下载并放到mod主目录下的`resource`文件夹内
