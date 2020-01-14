@@ -1,0 +1,1 @@
+"D:\steam\steamapps\common\Portal\bin\captioncompiler.exe" closecaption_schinese.txt -game "D:\steam\steamapps\sourcemods\portal pro"
